@@ -1,0 +1,18 @@
+VBox{
+    -fx-spacing: 10;
+    -fx-alignment: center;
+}
+
+GridPane{
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+    -fx-alignment: center;
+    -fx-padding: 5;
+}
+
+Label{
+    -fx-font-family: "Arial";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+}
