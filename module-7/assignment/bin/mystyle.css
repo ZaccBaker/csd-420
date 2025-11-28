@@ -1,0 +1,24 @@
+HBox{
+    -fx-spacing: 10px;
+    -fx-alignment: center;
+}
+
+StackPane{
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
+
+.circle-general{
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#circle-red{
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#circle-green{
+    -fx-fill: green;
+    -fx-stroke: green;
+}
