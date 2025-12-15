@@ -1,0 +1,7 @@
+#recordSearch{
+    -fx-max-width: 200px;
+}
+
+Label{
+    -fx-padding: 0 20px 0 20px;
+}
